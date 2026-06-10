@@ -1,3 +1,4 @@
+console.log("Halo dari JavaScript!");
 const btn = document.getElementById("downloadBtn");
 
 btn.addEventListener("click", () => {
