@@ -11,8 +11,15 @@
         opacity:1;
         transform:translateY(0);
     }
-}
 .download-btn{
-    display:inline-block;
-    margin-top:20px;
+    display:block;
+    width:fit-content;
+    margin:15px auto;
+    text-decoration:none;
+    color:white;
+    background:#2196f3;
+    padding:14px 34px;
+    border-radius:12px;
+    font-weight:bold;
+    transition:.25s;
 }
