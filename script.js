@@ -1,5 +1,5 @@
 console.log("Halo dari JavaScript!");
-const btn = document.getElementById("downloadBtn");
+const btn = document.getElementById("download-btn");
 
 btn.addEventListener("click", () => {
     btn.textContent = "Starting...otw gus";
